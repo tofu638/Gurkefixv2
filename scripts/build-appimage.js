@@ -1,4 +1,3 @@
-```js
 // Build Gurke Client AppImage
 // Run with: npm run build:appimage
 
@@ -44,4 +43,3 @@ if (result.status !== 0) {
 
 console.log("AppImage build completed successfully!");
 console.log("Check the dist folder for the .AppImage file.");
-```
